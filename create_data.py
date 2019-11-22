@@ -4,7 +4,7 @@ haar_file = '/home/amrutha/FaceRecognition/HaarCascade/haarcascade_frontalface_d
 
 datasets = 'datasets'
 
-sub_data = 'amrutha'
+sub_data = 'Group_1'
 
 path = os.path.join(datasets, sub_data)
 if not os.path.isdir(path):
